@@ -1,5 +1,6 @@
 Taller Aplicaciones Web
 Luis Torres
+```html
 
 1.Que es un servidor?
 Programa capaz de atender solicitudes y enviar respuestas
@@ -80,3 +81,4 @@ Es la ultima confirmacion de cambios realizada.
 
 24. cual es la funcion de doctype.
 Especifica al navegador tipo de archivo pueden ser html, css, etc
+```
