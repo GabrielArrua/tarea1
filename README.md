@@ -45,7 +45,7 @@ Facil. Se utiliza la etiqueta [<audio src="aqui va el link del audio"></audio>]
 Aqui directamente nos referimos al atributo src="" que en otras palabras es source o fuente.
 
 13.como se indica al navegador que el documento esta escrito en ingles
-en el header se escribe el siguiente codigo: <html lang = "en">
+en el inicio, al iniciar la apertura de la etiqueta html se escribe el siguiente codigo: <html lang = "en">
 14. que es una lista ordenada
 Una lista ordenada o <ol> </ol> es una etiqueta que ordena con numeros  un determinado texto
 rodeado por estas etiquetas 
@@ -77,7 +77,7 @@ Un commit es el comando utilizado guardar el archivo en el repositorio: git comm
 Es enviar tu archivo a repositorios remotos alojados en la nube.
 
 23 que es la rama master
-Es la ultima confirmacion de cambios realizada.
+Es la rama por default de Git.
 
 24. cual es la funcion de doctype.
 Especifica al navegador tipo de archivo pueden ser html, css, etc
