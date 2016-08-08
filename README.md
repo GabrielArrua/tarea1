@@ -71,7 +71,7 @@ Github es un repositorio que aloja proyectos de desarrollo colaborativo esencial
 20. que es clonar un repo, cual comando se utiliza?
 Es copiar todo el repositorio remoto o alojado en la nube a tu maquina se utiliza el comando git clone [url de lo que se desea clonar]
 21. que es un commit?
-Un commit es el comando utilizado guardar el archivo en el repositorio: git commmit [nombre del archivo]
+Un commit es el comando utilizado guardar el archivo en el repositorio: git commit [nombre del archivo]
 
 22 que es un push?
 Es enviar tu archivo a repositorios remotos alojados en la nube.
